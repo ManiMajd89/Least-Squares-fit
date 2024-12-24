@@ -14,6 +14,26 @@ The script uses `lawdata`, which contains:
 - `gpa`: Grade Point Average data.
 - `lsat`: Law School Admission Test scores.
 
+|   GPA |   LSAT |
+|-------|--------|
+|  3.39 |    576 |
+|  3.3  |    635 |
+|  2.81 |    558 |
+|  3.03 |    578 |
+|  3.44 |    666 |
+|  3.07 |    580 |
+|  3    |    555 |
+|  3.43 |    661 |
+|  3.36 |    651 |
+|  3.13 |    605 |
+|  3.12 |    653 |
+|  2.74 |    575 |
+|  2.76 |    545 |
+|  2.88 |    572 |
+|  2.96 |    594 |
+
+@ Credits to Katie Allison and Vivek Dhande
+
 ## Visualization
 
 - **Blue Points**: Original data.
